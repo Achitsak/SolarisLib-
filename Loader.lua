@@ -1304,3 +1304,4 @@ function SolarisLib:New(Config)
     end 
     return TabHolder
 end    
+return SolarisLib
